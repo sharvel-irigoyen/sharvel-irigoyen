@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117" />
+      <stop offset="100%" stop-color="#161b22" />
+    </linearGradient>
+    <linearGradient id="ring" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f75049">
+        <animate attributeName="stop-color" values="#f75049;#5dd8ff;#f75049" dur="6s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#38bdf8">
+        <animate attributeName="stop-color" values="#38bdf8;#9a70ff;#38bdf8" dur="6s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+  </defs>
+
+  <rect width="120" height="120" rx="26" fill="url(#bg)" />
+
+  <g transform="translate(60 60)">
+    <circle r="44" fill="none" stroke="url(#ring)" stroke-width="3" opacity="0.9" />
+    <g>
+      <circle r="4" fill="#f8d866">
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="5s" repeatCount="indefinite" />
+      </circle>
+    </g>
+    <g opacity="0.3">
+      <circle r="52" fill="none" stroke="#2b3038" stroke-width="2" stroke-dasharray="6 10">
+        <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="14s" repeatCount="indefinite" />
+      </circle>
+    </g>
+  </g>
+
+  <text x="50%" y="53%" text-anchor="middle" fill="#e6edf3" font-family="Inter, 'Segoe UI', system-ui, sans-serif" font-size="26" font-weight="700">JI</text>
+  <text x="50%" y="68%" text-anchor="middle" fill="#9fb3c8" font-family="Inter, 'Segoe UI', system-ui, sans-serif" font-size="12" letter-spacing="1.2">Full Stack</text>
+</svg>

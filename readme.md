@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="70" alt="Animated avatar" />
+<img src="./assets/avatar.svg" width="90" alt="Animated avatar" />
 <h1 align="center" style="display: inline-block">Hi, I'm <a href="https://github.com/sharvel-irigoyen" target="_blank" style="text-decoration:none; color:inherit;">Javier Irigoyen</a></h1>
 
 <a href="https://git.io/typing-svg">
