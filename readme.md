@@ -38,37 +38,37 @@ My approach blends <b>robust Business Logic</b> (Backend) with a <b>flawless Use
 <p>Fast delivery of admin panels and complex SaaS.</p>
 
 <p>
-  <img src="https://api.iconify.design/simple-icons:laravel.svg?color=%23ff2d20" height="44" alt="Laravel" style="margin: 4px;" />
-  <img src="https://api.iconify.design/simple-icons:livewire.svg?color=%23fb70a9" height="44" alt="Livewire" style="margin: 4px;" />
-  <img src="https://api.iconify.design/simple-icons:alpinedotjs.svg?color=%238bc0d0" height="44" alt="Alpine.js" style="margin: 4px;" />
-  <img src="https://api.iconify.design/simple-icons:tailwindcss.svg?color=%2338b2ac" height="44" alt="Tailwind CSS" style="margin: 4px;" />
-  <img src="https://api.iconify.design/simple-icons:filament.svg?color=%23fba92d" height="44" alt="Filament" style="margin: 4px;" />
+  <img src="https://api.iconify.design/simple-icons:laravel.svg?color=%23ff2d20" alt="Laravel" style="height:40px; margin:6px; vertical-align:middle;" />
+  <img src="https://api.iconify.design/simple-icons:livewire.svg?color=%23fb70a9" alt="Livewire" style="height:40px; margin:6px; vertical-align:middle;" />
+  <img src="https://api.iconify.design/simple-icons:alpinedotjs.svg?color=%238bc0d0" alt="Alpine.js" style="height:40px; margin:6px; vertical-align:middle;" />
+  <img src="https://api.iconify.design/simple-icons:tailwindcss.svg?color=%2338b2ac" alt="Tailwind CSS" style="height:40px; margin:6px; vertical-align:middle;" />
+  <img src="https://api.iconify.design/simple-icons:filament.svg?color=%23fba92d" alt="Filament" style="height:40px; margin:6px; vertical-align:middle;" />
 </p>
 
 <h3>⚙️ Backend & Enterprise Solutions</h3>
 <p>
-  <img src="https://api.iconify.design/simple-icons:php.svg?color=%23777bb4" height="44" alt="PHP" style="margin: 4px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="44" alt="Node.js" style="margin: 4px;" />
-  <img src="https://api.iconify.design/simple-icons:python.svg?color=%233776ab" height="44" alt="Python" style="margin: 4px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="44" alt="Java" style="margin: 4px;" />
-  <img src="https://api.iconify.design/simple-icons:dotnet.svg?color=%23512bd4" height="44" alt=".NET / C#" style="margin: 4px;" />
+  <img src="https://api.iconify.design/simple-icons:php.svg?color=%23777bb4" alt="PHP" style="height:40px; margin:6px; vertical-align:middle;" />
+  <img src="https://api.iconify.design/simple-icons:nodedotjs.svg?color=%235fa04e" alt="Node.js" style="height:40px; margin:6px; vertical-align:middle;" />
+  <img src="https://api.iconify.design/simple-icons:python.svg?color=%233776ab" alt="Python" style="height:40px; margin:6px; vertical-align:middle;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" style="height:40px; margin:6px; vertical-align:middle;" />
+  <img src="https://api.iconify.design/simple-icons:dotnet.svg?color=%23512bd4" alt=".NET / C#" style="height:40px; margin:6px; vertical-align:middle;" />
 </p>
 
 <h3>🎨 Frontend Ecosystem</h3>
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="44" alt="Vue.js" style="margin: 4px;" />
-  <img src="https://api.iconify.design/simple-icons:angular.svg?color=%23dd0031" height="44" alt="Angular" style="margin: 4px;" />
-  <img src="https://api.iconify.design/simple-icons:javascript.svg?color=%23f7df1e" height="44" alt="JavaScript" style="margin: 4px;" />
-  <img src="https://api.iconify.design/simple-icons:bootstrap.svg?color=%237952b3" height="44" alt="Bootstrap" style="margin: 4px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" style="height:40px; margin:6px; vertical-align:middle;" />
+  <img src="https://api.iconify.design/simple-icons:angular.svg?color=%23dd0031" alt="Angular" style="height:40px; margin:6px; vertical-align:middle;" />
+  <img src="https://api.iconify.design/simple-icons:javascript.svg?color=%23f7df1e" alt="JavaScript" style="height:40px; margin:6px; vertical-align:middle;" />
+  <img src="https://api.iconify.design/simple-icons:bootstrap.svg?color=%237952b3" alt="Bootstrap" style="height:40px; margin:6px; vertical-align:middle;" />
 </p>
 
 <h3>💾 Data & 🤖 AI Agents</h3>
 <p>
-  <img src="https://api.iconify.design/simple-icons:mysql.svg?color=%234479a1" height="44" alt="MySQL" style="margin: 4px;" />
-  <img src="https://api.iconify.design/simple-icons:postgresql.svg?color=%23336791" height="44" alt="PostgreSQL" style="margin: 4px;" />
-  <img src="https://api.iconify.design/simple-icons:microsoftsqlserver.svg?color=%23cc2927" height="44" alt="SQL Server" style="margin: 4px;" />
-  <img src="https://api.iconify.design/simple-icons:n8n.svg?color=%23ea4b71" height="44" alt="n8n" style="margin: 4px;" />
-  <img src="https://api.iconify.design/simple-icons:langchain.svg?color=%2300b86e" height="44" alt="LangChain" style="margin: 4px;" />
+  <img src="https://api.iconify.design/simple-icons:mysql.svg?color=%234479a1" alt="MySQL" style="height:40px; margin:6px; vertical-align:middle;" />
+  <img src="https://api.iconify.design/simple-icons:postgresql.svg?color=%23336791" alt="PostgreSQL" style="height:40px; margin:6px; vertical-align:middle;" />
+  <img src="https://api.iconify.design/simple-icons:microsoftsqlserver.svg?color=%23cc2927" alt="SQL Server" style="height:40px; margin:6px; vertical-align:middle;" />
+  <img src="https://api.iconify.design/simple-icons:n8n.svg?color=%23ea4b71" alt="n8n" style="height:40px; margin:6px; vertical-align:middle;" />
+  <img src="https://api.iconify.design/simple-icons:langchain.svg?color=%2300b86e" alt="LangChain" style="height:40px; margin:6px; vertical-align:middle;" />
 </p>
 
 </div>
