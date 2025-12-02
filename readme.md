@@ -39,7 +39,7 @@ My approach blends <b>robust Business Logic</b> (Backend) with a <b>flawless Use
 <h2>What I do</h2>
 <p>Product-minded engineer focused on shipping fast without trading off reliability.</p>
 <p>✅ Design and build scalable admin panels, SaaS, and internal tools.</p>
-<p>✅ Architect resilient backends with clean domain boundaries.</p>
+<p>✅ Architect resilient backends with clean domain boundaries (caching/queues with Redis).</p>
 <p>✅ Ship real-time features with WebSockets for live dashboards and collaboration.</p>
 <p>✅ Integrate AI agents and automation to remove manual work.</p>
 </div>
@@ -83,6 +83,7 @@ My approach blends <b>robust Business Logic</b> (Backend) with a <b>flawless Use
   <img src="https://api.iconify.design/simple-icons:mysql.svg?color=%234479a1" alt="MySQL" style="height:60px; margin:0 14px;" />
   <img src="https://api.iconify.design/simple-icons:postgresql.svg?color=%23336791" alt="PostgreSQL" style="height:60px; margin:0 14px;" />
   <img src="https://api.iconify.design/simple-icons:microsoftsqlserver.svg?color=%23cc2927" alt="SQL Server" style="height:60px; margin:0 14px;" />
+  <img src="https://api.iconify.design/simple-icons:redis.svg?color=%23d82c20" alt="Redis" style="height:60px; margin:0 14px;" />
   <img src="https://api.iconify.design/simple-icons:n8n.svg?color=%23ea4b71" alt="n8n" style="height:60px; margin:0 14px;" />
   <img src="https://api.iconify.design/simple-icons:langchain.svg?color=%2300b86e" alt="LangChain" style="height:60px; margin:0 14px;" />
 </p>
