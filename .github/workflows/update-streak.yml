@@ -2,7 +2,7 @@ name: Update Profile Badges
 
 on:
   schedule:
-    - cron: "0 6 * * *" # diario 06:00 UTC
+    - cron: "0 6 * * *" # daily 06:00 UTC
   workflow_dispatch:
   push:
     branches: [main]
@@ -15,7 +15,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Descargar badges
+      - name: Download badges
         run: |
           mkdir -p assets
           curl -L "https://github-readme-stats-sigma-five.vercel.app/api?username=sharvel-irigoyen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&count_private=true" \
@@ -24,7 +24,7 @@ jobs:
             -o assets/top-langs.svg
           curl -L "https://streak-stats.demolab.com/?user=sharvel-irigoyen&theme=tokyonight&hide_border=true&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" \
             -o assets/streak.svg
-      - name: Commit & push si hay cambios
+      - name: Commit & push if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"

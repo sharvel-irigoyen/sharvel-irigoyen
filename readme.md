@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="60" alt="Avatar animado" />
-<h1 align="center" style="display: inline-block">Hola, soy <a href="https://github.com/sharvel-irigoyen" target="_blank" style="text-decoration:none; color:inherit;">Javier Irigoyen</a></h1>
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="60" alt="Animated avatar" />
+<h1 align="center" style="display: inline-block">Hi, I'm <a href="https://github.com/sharvel-irigoyen" target="_blank" style="text-decoration:none; color:inherit;">Javier Irigoyen</a></h1>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75049&center=true&vCenter=true&width=600&lines=Senior+Full+Stack+Engineer;Laravel+%26+Filament+V3+Expert;Building+Scalable+Business+Logic;AI+Agents+%26+Automation+Architect" alt="Typing intro" />
 </a>
 
 <p align="center" width="600">
-Transformo requerimientos complejos en <b>Aplicaciones Web Modernas</b>.<br />
-Mi enfoque combina una <b>Lógica de Negocio robusta</b> (Backend) con una <b>Experiencia de Usuario impecable</b> (UX/UI).
+I turn complex requirements into <b>Modern Web Applications</b>.<br />
+My approach blends <b>robust Business Logic</b> (Backend) with a <b>flawless User Experience</b> (UX/UI).
 </p>
 
 <div align="center">
@@ -30,12 +30,12 @@ Mi enfoque combina una <b>Lógica de Negocio robusta</b> (Backend) con una <b>Ex
 
 </div>
 
-<h2 align="center">⚡ Arsenal Tecnológico</h2>
+<h2 align="center">⚡ Tech Arsenal</h2>
 
 <div align="center">
 
-<h3>🏆 Mi Especialidad: TALL Stack + Filament V3</h3>
-<p>Desarrollo ágil de paneles administrativos y SAAS complejos.</p>
+<h3>🏆 My Specialty: TALL Stack + Filament V3</h3>
+<p>Fast delivery of admin panels and complex SaaS.</p>
 
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
 <img src="https://img.shields.io/badge/Filament_V3-FFAA00?style=for-the-badge&logo=filament&logoColor=black" alt="Filament V3" />
@@ -65,7 +65,7 @@ Mi enfoque combina una <b>Lógica de Negocio robusta</b> (Backend) con una <b>Ex
 
 </div>
 
-<h2 align="center">📈 Rendimiento & Actividad</h2>
+<h2 align="center">📈 Performance & Activity</h2>
 
 <div align="center">
 <img src="./assets/stats.svg" height="180" alt="GitHub stats" />
