@@ -19,13 +19,13 @@ My approach blends <b>robust Business Logic</b> (Backend) with a <b>flawless Use
 <code>🤖 AI Integration</code>
 </div>
 
-<p align="center">
-<a href="mailto:sharvel.irigoyen@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://linkedin.com/in/sharvel-irigoyen">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+<p align="center" style="display:flex; gap:14px; justify-content:center; align-items:center;">
+  <a href="mailto:sharvel.irigoyen@gmail.com">
+    <img src="https://api.iconify.design/simple-icons:gmail.svg?color=%23d14836" height="34" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/sharvel-irigoyen">
+    <img src="https://api.iconify.design/simple-icons:linkedin.svg?color=%230077b5" height="34" alt="LinkedIn" />
+  </a>
 </p>
 
 </div>
@@ -37,31 +37,39 @@ My approach blends <b>robust Business Logic</b> (Backend) with a <b>flawless Use
 <h3>🏆 My Specialty: TALL Stack + Filament V3</h3>
 <p>Fast delivery of admin panels and complex SaaS.</p>
 
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-<img src="https://img.shields.io/badge/Filament_V3-FFAA00?style=for-the-badge&logo=filament&logoColor=black" alt="Filament V3" />
-<img src="https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white" alt="Livewire" />
-<img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=white" alt="Alpine.js" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+<p>
+  <img src="https://api.iconify.design/simple-icons:laravel.svg?color=%23ff2d20" height="44" alt="Laravel" style="margin: 4px;" />
+  <img src="https://api.iconify.design/simple-icons:livewire.svg?color=%23fb70a9" height="44" alt="Livewire" style="margin: 4px;" />
+  <img src="https://api.iconify.design/simple-icons:alpinedotjs.svg?color=%238bc0d0" height="44" alt="Alpine.js" style="margin: 4px;" />
+  <img src="https://api.iconify.design/simple-icons:tailwindcss.svg?color=%2338b2ac" height="44" alt="Tailwind CSS" style="margin: 4px;" />
+  <img src="https://api.iconify.design/simple-icons:filament.svg?color=%23fba92d" height="44" alt="Filament" style="margin: 4px;" />
+</p>
 
 <h3>⚙️ Backend & Enterprise Solutions</h3>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/Java_(Spring_Boot)-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Java Spring Boot" />
-<img src="https://img.shields.io/badge/C%23_(ASP.NET)-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C# ASP.NET" />
+<p>
+  <img src="https://api.iconify.design/simple-icons:php.svg?color=%23777bb4" height="44" alt="PHP" style="margin: 4px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="44" alt="Node.js" style="margin: 4px;" />
+  <img src="https://api.iconify.design/simple-icons:python.svg?color=%233776ab" height="44" alt="Python" style="margin: 4px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="44" alt="Java" style="margin: 4px;" />
+  <img src="https://api.iconify.design/simple-icons:dotnet.svg?color=%23512bd4" height="44" alt=".NET / C#" style="margin: 4px;" />
+</p>
 
 <h3>🎨 Frontend Ecosystem</h3>
-<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js" />
-<img src="https://img.shields.io/badge/Angular-E23237?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="44" alt="Vue.js" style="margin: 4px;" />
+  <img src="https://api.iconify.design/simple-icons:angular.svg?color=%23dd0031" height="44" alt="Angular" style="margin: 4px;" />
+  <img src="https://api.iconify.design/simple-icons:javascript.svg?color=%23f7df1e" height="44" alt="JavaScript" style="margin: 4px;" />
+  <img src="https://api.iconify.design/simple-icons:bootstrap.svg?color=%237952b3" height="44" alt="Bootstrap" style="margin: 4px;" />
+</p>
 
 <h3>💾 Data & 🤖 AI Agents</h3>
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
+<p>
+  <img src="https://api.iconify.design/simple-icons:mysql.svg?color=%234479a1" height="44" alt="MySQL" style="margin: 4px;" />
+  <img src="https://api.iconify.design/simple-icons:postgresql.svg?color=%23336791" height="44" alt="PostgreSQL" style="margin: 4px;" />
+  <img src="https://api.iconify.design/simple-icons:microsoftsqlserver.svg?color=%23cc2927" height="44" alt="SQL Server" style="margin: 4px;" />
+  <img src="https://api.iconify.design/simple-icons:n8n.svg?color=%23ea4b71" height="44" alt="n8n" style="margin: 4px;" />
+  <img src="https://api.iconify.design/simple-icons:langchain.svg?color=%2300b86e" height="44" alt="LangChain" style="margin: 4px;" />
+</p>
 
 </div>
 
