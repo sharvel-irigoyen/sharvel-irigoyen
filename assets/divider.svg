@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="14" viewBox="0 0 720 14">
+  <defs>
+    <linearGradient id="pulse" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f75049">
+        <animate attributeName="stop-color" values="#f75049;#5dd8ff;#f75049" dur="4s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#38bdf8">
+        <animate attributeName="stop-color" values="#38bdf8;#9a70ff;#38bdf8" dur="4s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="5" width="720" height="4" rx="2" fill="#1b1f27" />
+  <rect x="0" y="5" width="720" height="4" rx="2" fill="url(#pulse)" opacity="0.8" />
+</svg>

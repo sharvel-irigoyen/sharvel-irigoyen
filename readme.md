@@ -46,6 +46,10 @@ My approach blends <b>robust Business Logic</b> (Backend) with a <b>flawless Use
 <p>✅ Integrate AI agents and automation to remove manual work.</p>
 </div>
 
+<p align="center">
+  <img src="./assets/divider.svg" alt="Animated divider" />
+</p>
+
 <br />
 
 <h2 align="center">⚡ Tech Arsenal</h2>
