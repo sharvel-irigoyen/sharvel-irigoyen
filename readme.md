@@ -19,12 +19,15 @@ My approach blends <b>robust Business Logic</b> (Backend) with a <b>flawless Use
 <code>🤖 AI Integration</code>
 </div>
 
-<p align="center" style="display:flex; gap:16px; justify-content:center; align-items:center; margin:12px 0 4px;">
-  <a href="mailto:sharvel.irigoyen@gmail.com">
+<p align="center" style="margin:12px 0 6px; font-size:16px;">Open to collaborations, consulting, or product work. Reach me here:</p>
+<p align="center" style="display:flex; gap:18px; justify-content:center; align-items:center; margin:8px 0 4px;">
+  <a href="mailto:sharvel.irigoyen@gmail.com" style="text-decoration:none;">
     <img src="https://api.iconify.design/simple-icons:gmail.svg?color=%23d14836" height="34" alt="Email" />
+    <span style="margin-left:6px; font-weight:600; color:#d14836;">Email</span>
   </a>
-  <a href="https://linkedin.com/in/sharvel-irigoyen">
+  <a href="https://linkedin.com/in/sharvel-irigoyen" style="text-decoration:none;">
     <img src="https://api.iconify.design/simple-icons:linkedin.svg?color=%230077b5" height="34" alt="LinkedIn" />
+    <span style="margin-left:6px; font-weight:600; color:#0077b5;">LinkedIn</span>
   </a>
 </p>
 
