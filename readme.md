@@ -4,7 +4,7 @@
 <h1 align="center" style="display: inline-block">Hi, I'm <a href="https://github.com/sharvel-irigoyen" target="_blank" style="text-decoration:none; color:inherit;">Javier Irigoyen</a></h1>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75049&center=true&vCenter=true&width=600&lines=Senior+Full+Stack+Engineer;Laravel+%26+Filament+V3+Expert;Building+Scalable+Business+Logic;AI+Agents+%26+Automation+Architect" alt="Typing intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Senior+Full+Stack+Engineer;Laravel+%26+Filament+V3+Expert;Building+Scalable+Business+Logic;AI+Agents+%26+Automation+Architect" alt="Typing intro" />
 </a>
 
 <img src="./assets/banner.svg" alt="Animated gradient banner" />
