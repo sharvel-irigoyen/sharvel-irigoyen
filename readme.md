@@ -35,11 +35,9 @@ My approach blends <b>robust Business Logic</b> (Backend) with a <b>flawless Use
 <div align="center">
 <h2>What I do</h2>
 <p>Product-minded engineer focused on shipping fast without trading off reliability.</p>
-<ul style="list-style: none; padding: 0; margin: 0; text-align: center;">
-  <li>✅ Design and build scalable admin panels, SaaS, and internal tools.</li>
-  <li>✅ Architect resilient backends with clean domain boundaries.</li>
-  <li>✅ Integrate AI agents and automation to remove manual work.</li>
-</ul>
+<p>✅ Design and build scalable admin panels, SaaS, and internal tools.</p>
+<p>✅ Architect resilient backends with clean domain boundaries.</p>
+<p>✅ Integrate AI agents and automation to remove manual work.</p>
 </div>
 
 <br />
