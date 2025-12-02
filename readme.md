@@ -73,7 +73,7 @@ Mi enfoque combina una <b>Lógica de Negocio robusta</b> (Backend) con una <b>Ex
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=sharvel-irigoyen&theme=tokyonight&hide_border=true&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F&cache_seconds=86400" alt="GitHub streak" />
+<img src="./assets/streak.svg" alt="GitHub streak" />
 </div>
 
 <div align="center">
