@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75049&center=true&vCenter=true&width=600&lines=Senior+Full+Stack+Engineer;Laravel+%26+Filament+V3+Expert;Building+Scalable+Business+Logic;AI+Agents+%26+Automation+Architect" alt="Typing intro" />
 </a>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=90&text=Build%20%E2%80%A2%20Ship%20%E2%80%A2%20Scale%20%E2%80%A2%20Automate&fontColor=E6EDF3&fontSize=24&fontAlign=50&fontAlignY=50&desc=Product%20quality%20at%20startup%20speed&descAlign=50&descAlignY=80&descSize=14&stroke=2E2E2E" alt="Animated gradient banner" />
+<img src="./assets/banner.svg" alt="Animated gradient banner" />
 
 <p align="center" width="640">
 I turn complex requirements into <b>Modern Web Applications</b>.<br />

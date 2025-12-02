@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="90" viewBox="0 0 720 90">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f75049">
+        <animate attributeName="stop-color" values="#f75049;#5dd8ff;#f75049" dur="6s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#38bdf8">
+        <animate attributeName="stop-color" values="#38bdf8;#9a70ff;#38bdf8" dur="6s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+    <clipPath id="round">
+      <rect x="0" y="0" width="720" height="90" rx="14" ry="14" />
+    </clipPath>
+  </defs>
+  <rect x="0.6" y="0.6" width="718.8" height="88.8" rx="14" ry="14" fill="#0d1117" stroke="#222" stroke-width="1.2" />
+  <rect x="0" y="0" width="720" height="90" fill="url(#grad)" fill-opacity="0.16" clip-path="url(#round)" />
+  <text x="50%" y="46%" fill="#e6edf3" font-family="Fira Code, Menlo, monospace" font-size="24" text-anchor="middle" dominant-baseline="middle">
+    Build • Ship • Scale • Automate
+  </text>
+  <text x="50%" y="73%" fill="#9fb3c8" font-family="Inter, system-ui, -apple-system, sans-serif" font-size="14" text-anchor="middle" dominant-baseline="middle">
+    Product quality at startup speed
+  </text>
+</svg>
