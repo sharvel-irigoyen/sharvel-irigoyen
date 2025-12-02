@@ -40,6 +40,7 @@ My approach blends <b>robust Business Logic</b> (Backend) with a <b>flawless Use
 <p>Product-minded engineer focused on shipping fast without trading off reliability.</p>
 <p>✅ Design and build scalable admin panels, SaaS, and internal tools.</p>
 <p>✅ Architect resilient backends with clean domain boundaries.</p>
+<p>✅ Ship real-time features with WebSockets for live dashboards and collaboration.</p>
 <p>✅ Integrate AI agents and automation to remove manual work.</p>
 </div>
 
