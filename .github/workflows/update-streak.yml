@@ -1,0 +1,34 @@
+name: Update Profile Badges
+
+on:
+  schedule:
+    - cron: "0 6 * * *" # diario 06:00 UTC
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  update-badges:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Descargar badges
+        run: |
+          mkdir -p assets
+          curl -L "https://github-readme-stats-sigma-five.vercel.app/api?username=sharvel-irigoyen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&count_private=true" \
+            -o assets/stats.svg
+          curl -L "https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sharvel-irigoyen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F" \
+            -o assets/top-langs.svg
+          curl -L "https://streak-stats.demolab.com/?user=sharvel-irigoyen&theme=tokyonight&hide_border=true&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" \
+            -o assets/streak.svg
+      - name: Commit & push si hay cambios
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/stats.svg assets/top-langs.svg assets/streak.svg
+          git diff --cached --quiet && exit 0
+          git commit -m "chore: update profile badges"
+          git push
