@@ -78,12 +78,16 @@ My approach blends <b>robust Business Logic</b> (Backend) with a <b>flawless Use
   <img src="https://api.iconify.design/simple-icons:bootstrap.svg?color=%237952b3" alt="Bootstrap" style="height:60px; margin:0 14px;" />
 </p>
 
-<h3>💾 Data & 🤖 AI Agents</h3>
+<h3>💾 Data & Storage</h3>
 <p align="center">
   <img src="https://api.iconify.design/simple-icons:mysql.svg?color=%234479a1" alt="MySQL" style="height:60px; margin:0 14px;" />
   <img src="https://api.iconify.design/simple-icons:postgresql.svg?color=%23336791" alt="PostgreSQL" style="height:60px; margin:0 14px;" />
   <img src="https://api.iconify.design/simple-icons:microsoftsqlserver.svg?color=%23cc2927" alt="SQL Server" style="height:60px; margin:0 14px;" />
   <img src="https://api.iconify.design/simple-icons:redis.svg?color=%23d82c20" alt="Redis" style="height:60px; margin:0 14px;" />
+</p>
+
+<h3>🤖 AI & Automation</h3>
+<p align="center">
   <img src="https://api.iconify.design/simple-icons:n8n.svg?color=%23ea4b71" alt="n8n" style="height:60px; margin:0 14px;" />
   <img src="https://api.iconify.design/simple-icons:langchain.svg?color=%2300b86e" alt="LangChain" style="height:60px; margin:0 14px;" />
 </p>
