@@ -14,11 +14,8 @@ I turn complex requirements into <b>Modern Web Applications</b>.<br />
 My approach blends <b>robust Business Logic</b> (Backend) with a <b>flawless User Experience</b> (UX/UI).
 </p>
 
-<p align="center" style="display:flex; gap:10px; justify-content:center; align-items:center; flex-wrap:wrap; margin:12px 0;">
-  <span style="background:#161b22; border:1px solid #2e2e2e; color:#e6edf3; padding:6px 12px; border-radius:999px; font-weight:600;">✨ Clean Code</span>
-  <span style="background:#161b22; border:1px solid #2e2e2e; color:#e6edf3; padding:6px 12px; border-radius:999px; font-weight:600;">🚀 Scalability</span>
-  <span style="background:#161b22; border:1px solid #2e2e2e; color:#e6edf3; padding:6px 12px; border-radius:999px; font-weight:600;">🎨 Pixel Perfect</span>
-  <span style="background:#161b22; border:1px solid #2e2e2e; color:#e6edf3; padding:6px 12px; border-radius:999px; font-weight:600;">🤖 AI Integration</span>
+<p align="center">
+  <img src="./assets/principles.svg" alt="Principles" />
 </p>
 
 <p align="center" style="margin:12px 0 6px; font-size:16px;">Open to collaborations, consulting, or product work. Reach me here:</p>
