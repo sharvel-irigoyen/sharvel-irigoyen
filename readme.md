@@ -68,8 +68,8 @@ Mi enfoque combina una <b>Lógica de Negocio robusta</b> (Backend) con una <b>Ex
 <h2 align="center">📈 Rendimiento & Actividad</h2>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sharvel-irigoyen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&count_private=true" height="180" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharvel-irigoyen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F" height="180" alt="Top languages" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sharvel-irigoyen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&count_private=true&cache_seconds=7200" height="180" alt="GitHub stats" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sharvel-irigoyen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&cache_seconds=7200" height="180" alt="Top languages" />
 </div>
 
 <div align="center">
