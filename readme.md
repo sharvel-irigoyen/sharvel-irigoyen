@@ -35,6 +35,10 @@ My approach blends <b>robust Business Logic</b> (Backend) with a <b>flawless Use
 
 </div>
 
+<p align="center">
+  <img src="./assets/divider.svg" alt="Animated divider" />
+</p>
+
 <br />
 
 <div align="center">
@@ -99,6 +103,10 @@ My approach blends <b>robust Business Logic</b> (Backend) with a <b>flawless Use
 </p>
 
 </div>
+
+<p align="center">
+  <img src="./assets/divider.svg" alt="Animated divider" />
+</p>
 
 <h2 align="center">📈 Performance & Activity</h2>
 
