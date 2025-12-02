@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75049&center=true&vCenter=true&width=600&lines=Senior+Full+Stack+Engineer;Laravel+%26+Filament+V3+Expert;Building+Scalable+Business+Logic;AI+Agents+%26+Automation+Architect" alt="Typing intro" />
 </a>
 
-<img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='720' height='80' viewBox='0 0 720 80'><defs><linearGradient id='grad' x1='0%' y1='0%' x2='100%' y2='0%'><stop offset='0%' stop-color='%23f75049'><animate attributeName='stop-color' values='%23f75049;%235dd8ff;%23f75049' dur='6s' repeatCount='indefinite' /></stop><stop offset='100%' stop-color='%2338bdf8'><animate attributeName='stop-color' values='%2338bdf8;%239a70ff;%2338bdf8' dur='6s' repeatCount='indefinite' /></stop></linearGradient></defs><rect rx='12' ry='12' width='720' height='80' fill='%230d1117' stroke='%23222' stroke-width='1.2'/><rect rx='12' ry='12' width='720' height='80' fill='url(%23grad)' fill-opacity='0.14'/><text x='50%' y='50%' fill='%23e6edf3' font-family='Fira Code, Menlo, monospace' font-size='22' text-anchor='middle' dominant-baseline='middle'>Build • Ship • Scale • Automate</text></svg>" alt="Animated gradient banner" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=90&text=Build%20%E2%80%A2%20Ship%20%E2%80%A2%20Scale%20%E2%80%A2%20Automate&fontColor=E6EDF3&fontSize=24&fontAlign=50&fontAlignY=50&desc=Product%20quality%20at%20startup%20speed&descAlign=50&descAlignY=80&descSize=14&stroke=2E2E2E" alt="Animated gradient banner" />
 
 <p align="center" width="640">
 I turn complex requirements into <b>Modern Web Applications</b>.<br />
