@@ -19,14 +19,13 @@ My approach blends <b>robust Business Logic</b> (Backend) with a <b>flawless Use
 </p>
 
 <p align="center" style="margin:12px 0 6px; font-size:16px;">Open to collaborations, consulting, or product work. Reach me here:</p>
-<p align="center" style="display:flex; gap:18px; justify-content:center; align-items:center; margin:8px 0 4px;">
-  <a href="mailto:sharvel.irigoyen@gmail.com" style="text-decoration:none;">
-    <img src="https://api.iconify.design/simple-icons:gmail.svg?color=%23d14836" height="34" alt="Email" />
-    <span style="margin-left:6px; font-weight:600; color:#d14836;">Email</span>
+<p align="center" style="margin:8px 0 4px;">
+  <a href="mailto:sharvel.irigoyen@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-0d1117?style=for-the-badge&logo=gmail&logoColor=white&labelColor=d14836&color=0d1117" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/sharvel-irigoyen" style="text-decoration:none;">
-    <img src="https://api.iconify.design/simple-icons:linkedin.svg?color=%230077b5" height="34" alt="LinkedIn" />
-    <span style="margin-left:6px; font-weight:600; color:#0077b5;">LinkedIn</span>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/sharvel-irigoyen">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077b5&color=0d1117" alt="LinkedIn" />
   </a>
 </p>
 
