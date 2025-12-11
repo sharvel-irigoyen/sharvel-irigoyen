@@ -92,6 +92,11 @@ My approach blends <b>robust Business Logic</b> (Backend) with a <b>flawless Use
   <img src="https://api.iconify.design/simple-icons:redis.svg?color=%23d82c20" alt="Redis" style="height:60px; margin:0 14px;" />
 </p>
 
+<h3>☁️ Infrastructure</h3>
+<p align="center">
+  <img src="https://api.iconify.design/simple-icons:docker.svg?color=%232496ed" alt="Docker" style="height:60px; margin:0 14px;" />
+</p>
+
 <h3>🤖 AI & Automation</h3>
 <p align="center">
   <img src="https://api.iconify.design/simple-icons:n8n.svg?color=%23ea4b71" alt="n8n" style="height:60px; margin:0 14px;" />
