@@ -90,6 +90,7 @@ My approach blends <b>robust Business Logic</b> (Backend) with a <b>flawless Use
   <img src="https://api.iconify.design/simple-icons:postgresql.svg?color=%23336791" alt="PostgreSQL" style="height:60px; margin:0 14px;" />
   <img src="https://api.iconify.design/simple-icons:microsoftsqlserver.svg?color=%23cc2927" alt="SQL Server" style="height:60px; margin:0 14px;" />
   <img src="https://api.iconify.design/simple-icons:redis.svg?color=%23d82c20" alt="Redis" style="height:60px; margin:0 14px;" />
+  <img src="./assets/pinecone.svg" alt="Pinecone" style="height:60px; margin:0 14px;" />
 </p>
 
 <h3>☁️ Infrastructure</h3>
