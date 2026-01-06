@@ -65,7 +65,17 @@
             data-testid="lang-progress"
             x="0" 
             y="0"
-            width="107.58" 
+            width="105.15" 
+            height="8"
+            fill="#e34c26"
+          />
+        
+          <rect
+            mask="url(#rect-mask)" 
+            data-testid="lang-progress"
+            x="105.15" 
+            y="0"
+            width="72.97" 
             height="8"
             fill="#f7523f"
           />
@@ -73,19 +83,9 @@
           <rect
             mask="url(#rect-mask)" 
             data-testid="lang-progress"
-            x="107.58" 
+            x="178.12" 
             y="0"
-            width="90.57" 
-            height="8"
-            fill="#663399"
-          />
-        
-          <rect
-            mask="url(#rect-mask)" 
-            data-testid="lang-progress"
-            x="198.14999999999998" 
-            y="0"
-            width="89.63" 
+            width="62.04" 
             height="8"
             fill="#4F5D95"
           />
@@ -93,56 +93,56 @@
           <rect
             mask="url(#rect-mask)" 
             data-testid="lang-progress"
-            x="287.78" 
+            x="240.16" 
             y="0"
-            width="16.990000000000002" 
+            width="55.56" 
             height="8"
-            fill="#178600"
+            fill="#663399"
           />
         
           <rect
             mask="url(#rect-mask)" 
             data-testid="lang-progress"
-            x="294.77" 
+            x="295.72" 
             y="0"
-            width="15.23" 
+            width="14.29" 
             height="8"
-            fill="#e34c26"
+            fill="#178600"
           />
         
       
     <g transform="translate(0, 25)">
-      <circle cx="5" cy="6" r="5" fill="#f7523f" />
+      <circle cx="5" cy="6" r="5" fill="#e34c26" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Blade 35.86%
+        HTML 35.05%
       </text>
     </g>
   
     <g transform="translate(150, 25)">
-      <circle cx="5" cy="6" r="5" fill="#663399" />
+      <circle cx="5" cy="6" r="5" fill="#f7523f" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        CSS 30.19%
+        Blade 24.32%
       </text>
     </g>
   
     <g transform="translate(0, 50)">
       <circle cx="5" cy="6" r="5" fill="#4F5D95" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        PHP 29.88%
+        PHP 20.68%
       </text>
     </g>
   
     <g transform="translate(150, 50)">
-      <circle cx="5" cy="6" r="5" fill="#178600" />
+      <circle cx="5" cy="6" r="5" fill="#663399" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C# 2.33%
+        CSS 18.52%
       </text>
     </g>
   
     <g transform="translate(0, 75)">
-      <circle cx="5" cy="6" r="5" fill="#e34c26" />
+      <circle cx="5" cy="6" r="5" fill="#178600" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        HTML 1.74%
+        C# 1.43%
       </text>
     </g>
   
