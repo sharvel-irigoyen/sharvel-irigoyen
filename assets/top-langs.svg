@@ -65,7 +65,7 @@
             data-testid="lang-progress"
             x="0" 
             y="0"
-            width="113.45" 
+            width="113.44" 
             height="8"
             fill="#e34c26"
           />
@@ -73,9 +73,9 @@
           <rect
             mask="url(#rect-mask)" 
             data-testid="lang-progress"
-            x="113.45" 
+            x="113.44" 
             y="0"
-            width="69.14" 
+            width="69.13" 
             height="8"
             fill="#f7523f"
           />
@@ -83,9 +83,9 @@
           <rect
             mask="url(#rect-mask)" 
             data-testid="lang-progress"
-            x="182.59" 
+            x="182.57" 
             y="0"
-            width="60.96" 
+            width="60.97" 
             height="8"
             fill="#4F5D95"
           />
@@ -93,7 +93,7 @@
           <rect
             mask="url(#rect-mask)" 
             data-testid="lang-progress"
-            x="243.55" 
+            x="243.54" 
             y="0"
             width="52.41" 
             height="8"
@@ -103,7 +103,7 @@
           <rect
             mask="url(#rect-mask)" 
             data-testid="lang-progress"
-            x="295.96000000000004" 
+            x="295.95" 
             y="0"
             width="14.04" 
             height="8"
@@ -114,14 +114,14 @@
     <g transform="translate(0, 25)">
       <circle cx="5" cy="6" r="5" fill="#e34c26" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        HTML 37.82%
+        HTML 37.81%
       </text>
     </g>
   
     <g transform="translate(150, 25)">
       <circle cx="5" cy="6" r="5" fill="#f7523f" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Blade 23.05%
+        Blade 23.04%
       </text>
     </g>
   
