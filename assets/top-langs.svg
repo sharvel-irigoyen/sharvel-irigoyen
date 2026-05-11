@@ -65,7 +65,7 @@
             data-testid="lang-progress"
             x="0" 
             y="0"
-            width="101.38" 
+            width="101.44" 
             height="8"
             fill="#e34c26"
           />
@@ -73,9 +73,9 @@
           <rect
             mask="url(#rect-mask)" 
             data-testid="lang-progress"
-            x="101.38" 
+            x="101.44" 
             y="0"
-            width="72.88" 
+            width="72.83" 
             height="8"
             fill="#f7523f"
           />
@@ -83,9 +83,9 @@
           <rect
             mask="url(#rect-mask)" 
             data-testid="lang-progress"
-            x="174.26" 
+            x="174.26999999999998" 
             y="0"
-            width="65.38" 
+            width="65.41" 
             height="8"
             fill="#4F5D95"
           />
@@ -93,9 +93,9 @@
           <rect
             mask="url(#rect-mask)" 
             data-testid="lang-progress"
-            x="239.64" 
+            x="239.67999999999998" 
             y="0"
-            width="56.75" 
+            width="56.71" 
             height="8"
             fill="#663399"
           />
@@ -114,28 +114,28 @@
     <g transform="translate(0, 25)">
       <circle cx="5" cy="6" r="5" fill="#e34c26" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        HTML 33.79%
+        HTML 33.81%
       </text>
     </g>
   
     <g transform="translate(150, 25)">
       <circle cx="5" cy="6" r="5" fill="#f7523f" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Blade 24.29%
+        Blade 24.28%
       </text>
     </g>
   
     <g transform="translate(0, 50)">
       <circle cx="5" cy="6" r="5" fill="#4F5D95" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        PHP 21.79%
+        PHP 21.80%
       </text>
     </g>
   
     <g transform="translate(150, 50)">
       <circle cx="5" cy="6" r="5" fill="#663399" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        CSS 18.92%
+        CSS 18.90%
       </text>
     </g>
   
